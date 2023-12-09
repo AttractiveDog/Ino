@@ -1,6 +1,3 @@
-//Welcome
-//Electronics University
-
 int relayPin = 8;
 int sensor_pin = A0; // Soil Sensor input at Analog PIN A0
 int output_value ;
